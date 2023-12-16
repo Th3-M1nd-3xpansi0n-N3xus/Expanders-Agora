@@ -331,7 +331,7 @@
             "None": {}
         },
         "rvc": {
-            "enabled": false,
+            "enabled": true,
             "model": "",
             "pitchOffset": 0,
             "pitchExtraction": "dio",
